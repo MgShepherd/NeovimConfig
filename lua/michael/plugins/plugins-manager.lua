@@ -18,5 +18,8 @@ end
 
 -- All plugins to be installed go here
 lazy.setup({
-  { "morhetz/gruvbox" }
+  { "morhetz/gruvbox" },
+  { 'nvim-tree/nvim-web-devicons' },
+  { "nvim-lualine/lualine.nvim" },
+  { "nvim-treesitter/nvim-treesitter" }
 })
