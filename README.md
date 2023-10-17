@@ -8,3 +8,4 @@ This config uses the following plugins:
 - `nvim-web-icons` - Support from nerd font icons
 - `lualine` - For improved status line
 - `nvim-treesitter` - For Advanced syntax highlighting
+- `nvim-tree` - File Explorer for Neovim

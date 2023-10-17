@@ -21,5 +21,6 @@ lazy.setup({
   { "morhetz/gruvbox" },
   { 'nvim-tree/nvim-web-devicons' },
   { "nvim-lualine/lualine.nvim" },
-  { "nvim-treesitter/nvim-treesitter" }
+  { "nvim-treesitter/nvim-treesitter" },
+  { "nvim-tree/nvim-tree.lua" }
 })
