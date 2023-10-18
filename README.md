@@ -9,3 +9,4 @@ This config uses the following plugins:
 - `lualine` - For improved status line
 - `nvim-treesitter` - For Advanced syntax highlighting
 - `nvim-tree` - File Explorer for Neovim
+- `which-key` - Key Mapper
