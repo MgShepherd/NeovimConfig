@@ -23,5 +23,7 @@ lazy.setup({
   { "nvim-lualine/lualine.nvim" },
   { "nvim-treesitter/nvim-treesitter" },
   { "nvim-tree/nvim-tree.lua" },
-  { "folke/which-key.nvim" }
+  { "folke/which-key.nvim" },
+  { 'nvim-lua/plenary.nvim' },
+  { 'nvim-telescope/telescope.nvim' }
 })

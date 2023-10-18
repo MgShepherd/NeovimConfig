@@ -38,6 +38,11 @@ local mappings = {
     j = { "<C-w>j", "Move Up" },
     k = { "<C-w>k", "Move Down" },
     l = { "<C-w>l", "Move Right" },
+  },
+  f = {
+    name = "Telescope",
+    f = { "<cmd>Telescope find_files<CR>", "Find Files" },
+    s = { "<cmd>Telescope live_grep<CR>", "Search in Files" }
   }
 }
 

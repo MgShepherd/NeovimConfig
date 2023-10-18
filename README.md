@@ -10,3 +10,4 @@ This config uses the following plugins:
 - `nvim-treesitter` - For Advanced syntax highlighting
 - `nvim-tree` - File Explorer for Neovim
 - `which-key` - Key Mapper
+- `telescope` - Fuzzy Finder used for searching project
