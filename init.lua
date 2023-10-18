@@ -1,5 +1,6 @@
 require("michael.plugins.plugins-manager")
 require("michael.core.options")
+require("michael.core.keymaps")
 require("michael.plugins.lualine")
 require("michael.plugins.treesitter")
 require("michael.plugins.nvim-tree")
