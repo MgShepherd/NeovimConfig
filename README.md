@@ -11,3 +11,7 @@ This config uses the following plugins:
 - `nvim-tree` - File Explorer for Neovim
 - `which-key` - Key Mapper
 - `telescope` - Fuzzy Finder used for searching project
+- `conform` - Code Formatter
+- `mason` - Package Manager for Neovim
+- `nvim-lspconfig` - Configurations for LSP Clients
+- `mason-tools-installer` - Installs packages using Mason
