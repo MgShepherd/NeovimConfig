@@ -30,4 +30,9 @@ lazy.setup({
 	{ "williamboman/mason.nvim" },
 	{ "neovim/nvim-lspconfig" },
 	{ "WhoIsSethDaniel/mason-tool-installer.nvim" },
+	{ "nvimdev/dashboard-nvim", event = "VimEnter" },
+	{ "L3MON4D3/LuaSnip" },
+	{ "hrsh7th/nvim-cmp" },
+	{ "saadparwaiz1/cmp_luasnip" },
+	{ "hrsh7th/cmp-nvim-lsp" },
 })

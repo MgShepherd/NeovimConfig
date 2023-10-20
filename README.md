@@ -14,4 +14,7 @@ This config uses the following plugins:
 - `conform` - Code Formatter
 - `mason` - Package Manager for Neovim
 - `nvim-lspconfig` - Configurations for LSP Clients
-- `mason-tools-installer` - Installs packages using Mason
+- `mason-tool-installer` - Installs packages using Mason
+- `dashboard` - Dashboard display when starting neovim
+- `LuaSnip` and `cmp_luasnip` - Snippet engines that help with autocomplete
+- `nvim-cmp` and `cmp-nvim-lsp` - Code completion and suggestions
