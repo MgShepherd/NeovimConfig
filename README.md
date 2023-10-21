@@ -20,3 +20,4 @@ This config uses the following plugins:
 - `nvim-cmp` and `cmp-nvim-lsp` - Code completion and suggestions
 - `autopairs` - Automatic closing of pair elements
 - `nvim-lint` - Linting setup
+- `gitsigns` - Display git information

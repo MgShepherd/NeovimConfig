@@ -37,4 +37,5 @@ lazy.setup({
 	{ "hrsh7th/cmp-nvim-lsp" },
 	{ "windwp/nvim-autopairs" },
 	{ "mfussenegger/nvim-lint", event = { "BufReadPre", "BufNewFile" } },
+	{ "lewis6991/gitsigns.nvim" },
 })
