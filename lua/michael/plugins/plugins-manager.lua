@@ -35,4 +35,6 @@ lazy.setup({
 	{ "hrsh7th/nvim-cmp" },
 	{ "saadparwaiz1/cmp_luasnip" },
 	{ "hrsh7th/cmp-nvim-lsp" },
+	{ "windwp/nvim-autopairs" },
+	{ "mfussenegger/nvim-lint", event = { "BufReadPre", "BufNewFile" } },
 })

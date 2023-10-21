@@ -18,3 +18,5 @@ This config uses the following plugins:
 - `dashboard` - Dashboard display when starting neovim
 - `LuaSnip` and `cmp_luasnip` - Snippet engines that help with autocomplete
 - `nvim-cmp` and `cmp-nvim-lsp` - Code completion and suggestions
+- `autopairs` - Automatic closing of pair elements
+- `nvim-lint` - Linting setup
