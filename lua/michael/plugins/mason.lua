@@ -15,6 +15,7 @@ mason_tool_installer.setup({
 		"lua-language-server",
 		"stylua",
 		"eslint_d",
+		"eslint-lsp",
 		"prettierd",
 		"typescript-language-server",
 		"google-java-format",
