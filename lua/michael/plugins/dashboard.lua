@@ -1,9 +1,6 @@
-local dashboard_status, dashboard = pcall(require, "dashboard")
-if not dashboard_status then
-	return
-end
-
-dashboard.setup({
-	theme = "hyper",
-	config = {},
-})
+return {
+	"nvimdev/dashboard-nvim",
+	event = "VimEnter",
+	opts = {},
+	dependencies = { { "nvim-tree/nvim-web-devicons" } },
+}

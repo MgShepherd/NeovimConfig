@@ -1,6 +1,4 @@
-local lualine_status, lualine = pcall(require, "lualine")
-if not lualine_status then
-  return
-end
-
-lualine.setup()
+return {
+	"nvim-lualine/lualine.nvim",
+	dependencies = { { "nvim-tree/nvim-web-devicons" } },
+}
